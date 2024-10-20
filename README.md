@@ -14,3 +14,21 @@ For more details, please visit the following link! https://github.com/NotValen/F
 => Plants Vs Zombies Fusion v2.1.3 (Chinese) Desktop, the link: https://www.mediafire.com/file/1beqtlonkc9ldbz/Pvz_RH_Chinese_2.1.3.zip/file
 
 => Plants Vs Zombies Fusion v2.1.3 (Chinese) Android/Mobile, the link: https://www.mediafire.com/file/qfx529jvpoa5hvu/PlantsVsZombiesRH_2.1.3.APK..apk/file
+
+==> Credit <==
+
+Credit to: PopCap Games, the founder:
+1. John Vechey - One of the founders and former CEO.
+2. Brian Fiete - Also a founder and involved in game development.
+3. George Fan - Known as the creator of "Plants vs. Zombies" and played a significant role in developing several other games.
+4. Jason Kapalka - Another founder who also contributed to game design.
+
+=>> Developer game PVZ Fusion: (LanPiaoPiaoFly) https://space.bilibili.com/3546619314178489?spm_id_from=333.1369.opus.module_author_name.click
+
+=>>Respect to NaKune (Create a plugin that allows to create translations)
+
+=>>PVZ Fusion (Indonesian) Translate by: Valen & Angga
+
+And don't forget to check out Dyna's Trello Board for an in-depth explanation of the mechanics the game adds.
+
+LINK | https://trello.com/b/DcdT1kUp
