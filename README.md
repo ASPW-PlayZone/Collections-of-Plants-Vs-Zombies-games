@@ -29,6 +29,6 @@ Credit to: PopCap Games, the founder:
 
 =>>PVZ Fusion (Indonesian) Translate by: Valen & Angga
 
-And don't forget to check out Dyna's Trello Board for an in-depth explanation of the mechanics the game adds.
+And don't forget to check out Dyna's Trello Board for an in-depth explanation of the mechanics added to the PVZ Fusion game.
 
 LINK | https://trello.com/b/DcdT1kUp
