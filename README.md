@@ -4,11 +4,11 @@ Visit the following website if you want to download Plants Vs Zombies game: http
 
 Widescreen Fix! https://www.mediafire.com/file/azps6q9oidmm7lu/Plants+vs+Zombies+GOTY+[WidescreenFix].rar/file
 
-=> Plants Vs Zombies Fusion v2.1.3 (Indonesian) Desktop "Translete by Valen&Angga", the link: https://github.com/NotValen/Fusion-ID/
+=> Plants Vs Zombies Fusion v2.1.3 (Indonesian) Desktop "Translate by Valen&Angga", the link: https://github.com/NotValen/Fusion-ID/
 
 => Plants Vs Zombies Hybrid v2.5.1 (English) Desktop, the link: https://www.mediafire.com/file/wtqlb6yedy7wrgr/Plants+Vs+Zombies+Hybrid+English+v2.5.1+v1.4.zip/file
 
-=> Plants Vs Zombies Fusion v2.1.3 (English) Desktop, the link: https://www.mediafire.com/file/bgr13uhd7pzj5mm/PvZ_Fusion_English_2.1.3_%255BFanmade_Translation%255D_Version_2.7z/file
+=> Plants Vs Zombies Fusion v2.1.3 (English) Desktop "Translate by Dyna&MamoruKun", the link: https://www.mediafire.com/file/bgr13uhd7pzj5mm/PvZ_Fusion_English_2.1.3_%255BFanmade_Translation%255D_Version_2.7z/file
 
 => Plants Vs Zombies Fusion v2.1.3 (Chinese) Desktop, the link: https://www.mediafire.com/file/1beqtlonkc9ldbz/Pvz_RH_Chinese_2.1.3.zip/file
 
@@ -25,6 +25,8 @@ Credit to: PopCap Games, the founder:
 =>> Developer game PVZ Fusion: (LanPiaoPiaoFly) https://space.bilibili.com/3546619314178489?spm_id_from=333.1369.opus.module_author_name.click
 
 =>>Respect to NaKune (Create a plugin that allows to create translations)
+
+=>>PVZ Fusion (English) Translate by: Dyna & MamoruKun
 
 =>>PVZ Fusion (Indonesian) Translate by: Valen & Angga
 
