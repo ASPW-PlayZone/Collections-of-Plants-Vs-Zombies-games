@@ -1,6 +1,7 @@
 Visit the following website if you want to download Plants Vs Zombies game: https://rentry.co/o2yvnwdk or you can also directly download the game via the following links!
 
-=> Plants Vs Zombies GOTY (Original) Desktop, the link: https://www.mediafire.com/file/azps6q9oidmm7lu/Plants+vs+Zombies+GOTY+[WidescreenFix].rar/file
+=> Plants Vs Zombies GOTY (Original) Desktop, the link: https://drive.google.com/file/d/13DcTlJ5YUtjYZP77Z2muoeTe5YBfw9R9/view?usp=drive_link
+Widescreen Fix! https://www.mediafire.com/file/azps6q9oidmm7lu/Plants+vs+Zombies+GOTY+[WidescreenFix].rar/file
 
 => Plants Vs Zombies Fusion v2.1.3 (Indonesian) Desktop "Translete by Valen&Angga", the link: https://github.com/NotValen/Fusion-ID/
 
