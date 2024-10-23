@@ -12,7 +12,7 @@ Visit the following website if you want to download Plants Vs Zombies game: http
 
 => Plants Vs Zombies Fusion v2.1.3-hotfix (Chinese) Desktop, the link: https://drive.google.com/file/d/1YSDwhHkcoj_rVI4LcSGkJ508voPF9MrM/view?usp=sharing
 
-=> Plants Vs Zombies Fusion v2.1.3 (Chinese) Android/Mobile, the link: https://www.mediafire.com/file/qfx529jvpoa5hvu/PlantsVsZombiesRH_2.1.3.APK..apk/file
+=> Plants Vs Zombies Fusion v2.1.3-hotfix (Chinese) Android/Mobile, the link: https://www.mediafire.com/file/k0z0nex080vtckk/PVZFusion(Chinese)2.1.3-hotfix.apk/file
 
 ==> Credit <==
 
