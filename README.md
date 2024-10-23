@@ -2,7 +2,7 @@ Visit the following website if you want to download Plants Vs Zombies game: http
 
 => Plants Vs Zombies GOTY (Original) Desktop, the link: https://drive.google.com/file/d/13DcTlJ5YUtjYZP77Z2muoeTe5YBfw9R9/view?usp=drive_link
 
-Widescreen Fix! https://www.mediafire.com/file/azps6q9oidmm7lu/Plants+vs+Zombies+GOTY+[WidescreenFix].rar/file
+=> PVZ Original Widescreen Fix Desktop, the link https://www.mediafire.com/file/azps6q9oidmm7lu/Plants+vs+Zombies+GOTY+[WidescreenFix].rar/file
 
 => Plants Vs Zombies Fusion v2.1.3 (Indonesian) Desktop "Translate by Valen&Angga", the link: https://github.com/NotValen/Fusion-ID/
 
@@ -10,7 +10,7 @@ Widescreen Fix! https://www.mediafire.com/file/azps6q9oidmm7lu/Plants+vs+Zombies
 
 => Plants Vs Zombies Fusion v2.1.3 (English) Desktop "Translate by Dyna&MamoruKun", the link: https://www.mediafire.com/file/bgr13uhd7pzj5mm/PvZ_Fusion_English_2.1.3_%255BFanmade_Translation%255D_Version_2.7z/file
 
-=> Plants Vs Zombies Fusion v2.1.3 (Chinese) Desktop, the link: https://www.mediafire.com/file/1beqtlonkc9ldbz/Pvz_RH_Chinese_2.1.3.zip/file
+=> Plants Vs Zombies Fusion v2.1.3-hotfix (Chinese) Desktop, the link: https://drive.google.com/file/d/1YSDwhHkcoj_rVI4LcSGkJ508voPF9MrM/view?usp=sharing
 
 => Plants Vs Zombies Fusion v2.1.3 (Chinese) Android/Mobile, the link: https://www.mediafire.com/file/qfx529jvpoa5hvu/PlantsVsZombiesRH_2.1.3.APK..apk/file
 
